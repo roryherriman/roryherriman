@@ -51,8 +51,8 @@ Most of the code is AI-generated. I handle the ideas, requirements, testing, tro
 ## 🔧 On the workbench
 
 ```diff
-+ now     Pathwarden V1: in-game testing, tuning gear and dungeon recommendations
-+ now     Pathwarden: improving the NaowhForever and waypoint integrations
++ now     Pathwarden V1: in-game testing, tuning recommendations
++ now     Pathwarden: improving NaowhForever + waypoint integrations
 ! next    Ascend: public release
 - parked  everything else (it knows what it did)
 ```
