@@ -24,18 +24,26 @@ Most of the code is AI-generated. I handle the ideas, requirements, testing, tro
 
 ## 🗺️ Featured builds
 
+<a name="featured"></a>
+
 <p align="center">
-  <img src="./assets/cards/pathwarden.svg" width="49%" alt="Pathwarden: in development. Duo-leveling companion addon for WoW Forever. Lua.">
-  <img src="./assets/cards/ascend.svg" width="49%" alt="Ascend: completed. Raid progression analytics on Warcraft Logs. Python, PySide6, SQLite.">
-  <img src="./assets/cards/wow-coach.svg" width="49%" alt="WoW Coach: on hold. Pull review that lines up recordings with the combat log. Node.js.">
-  <img src="./assets/cards/mplusiq.svg" width="49%" alt="M+IQ: on hold. Mythic+ analysis engine. Python, SQLAlchemy, Azure SQL.">
+  <a href="#featured"><img src="./assets/cards/pathwarden.svg" width="49%" alt="Pathwarden: in development. Duo-leveling companion addon for WoW Forever. Lua."></a>
+  <a href="#featured"><img src="./assets/cards/ascend.svg" width="49%" alt="Ascend: completed. Raid progression analytics on Warcraft Logs. Python, PySide6, SQLite."></a>
+  <a href="#featured"><img src="./assets/cards/wow-coach.svg" width="49%" alt="WoW Coach: on hold. Pull review that lines up recordings with the combat log. Node.js."></a>
+  <a href="#featured"><img src="./assets/cards/mplusiq.svg" width="49%" alt="M+IQ: on hold. Mythic+ analysis engine. Python, SQLAlchemy, Azure SQL."></a>
 </p>
 
 <p align="center"><sub>🔒 Repos are private while I tidy them up. Ascend is first in line for a public release.</sub></p>
 
 ## 🧪 More from the lab
 
-🟢 **Completed:** against all odds, it works · 🔵 **In Development:** currently receiving dopamine · 🟠 **Experimental:** we're seeing what happens · ⏸️ **On Hold:** the dopamine has left the building · 🪦 **Abandoned:** it was a great idea for approximately six hours
+| Status | Meaning |
+|---|---|
+| 🟢 **Completed** | Against all odds, it works. |
+| 🔵 **In Development** | Currently receiving dopamine. |
+| 🟠 **Experimental** | We're seeing what happens. |
+| ⏸️ **On Hold** | The dopamine has left the building. |
+| 🪦 **Abandoned** | It was a great idea for approximately six hours. |
 
 **WoW addons & game tools**
 - 🟠 **Tempest Reminder**: loud alert for a raid tornado mechanic, built on the Encounter Timeline API
