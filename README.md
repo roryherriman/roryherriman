@@ -28,12 +28,12 @@ Most of the code is AI-generated. I handle the ideas, requirements, testing, tro
 
 <p align="center">
   <a href="#featured"><img src="./assets/cards/pathwarden.svg" width="49%" alt="Pathwarden: in development. Duo-leveling companion addon for WoW Forever. Lua."></a>
-  <a href="#featured"><img src="./assets/cards/ascend.svg" width="49%" alt="Ascend: completed. Raid progression analytics on Warcraft Logs. Python, PySide6, SQLite."></a>
+  <a href="https://github.com/roryherriman/Ascende"><img src="./assets/cards/ascend.svg" width="49%" alt="Ascend: completed. Raid progression analytics on Warcraft Logs. Python, PySide6, SQLite."></a>
   <a href="#featured"><img src="./assets/cards/wow-coach.svg" width="49%" alt="WoW Coach: on hold. Pull review that lines up recordings with the combat log. Node.js."></a>
   <a href="#featured"><img src="./assets/cards/mplusiq.svg" width="49%" alt="M+IQ: on hold. Mythic+ analysis engine. Python, SQLAlchemy, Azure SQL."></a>
 </p>
 
-<p align="center"><sub>🔒 Repos are private while I tidy them up. Ascend is first in line for a public release.</sub></p>
+<p align="center"><sub>🟢 <a href="https://github.com/roryherriman/Ascende"><b>Ascend</b></a> is public, so click its card. 🔒 The rest are private while I tidy them up.</sub></p>
 
 ## 🧪 More from the lab
 
@@ -61,7 +61,7 @@ Most of the code is AI-generated. I handle the ideas, requirements, testing, tro
 ```diff
 + now     Pathwarden V1: in-game testing, tuning recommendations
 + now     Pathwarden: improving NaowhForever + waypoint integrations
-! next    Ascend: public release
++ shipped Ascend: now public, go break it
 - parked  everything else (it knows what it did)
 ```
 
