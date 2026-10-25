@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/profession-systems_administrator-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Profession: systems administrator">
   <img src="https://img.shields.io/badge/developer-by_accident-e6c35c?style=flat-square" alt="Developer by accident">
   <img src="https://img.shields.io/badge/code-mostly_AI--generated-a371f7?style=flat-square" alt="Code: mostly AI-generated">
-  <img src="https://img.shields.io/badge/currently_hyperfocused_on-Pathwarden-4f8cf0?style=flat-square" alt="Currently hyperfocused on: Pathwarden">
+  <img src="https://img.shields.io/badge/currently_hyperfocused_on-Dawnward_Chronicles-e6c35c?style=flat-square" alt="Currently hyperfocused on: Dawnward Chronicles">
 </p>
 
 <h3 align="center">Systems Administrator by profession. Developer by accident.</h3>
@@ -27,13 +27,13 @@ Most of the code is AI-generated. I handle the ideas, requirements, testing, tro
 <a name="featured"></a>
 
 <p align="center">
-  <a href="#featured"><img src="./assets/cards/pathwarden.svg" width="49%" alt="Pathwarden: in development. Duo-leveling companion addon for WoW Forever. Lua."></a>
+  <a href="https://github.com/roryherriman/Dawnward-Chronicles"><img src="./assets/cards/dawnward.svg" width="49%" alt="Dawnward Chronicles: early development, no release yet. Roleplay storytelling addon for WoW Classic, with planned Total RP 3 sync. Lua."></a>
   <a href="https://github.com/roryherriman/Ascende"><img src="./assets/cards/ascend.svg" width="49%" alt="Ascend: completed. Raid progression analytics on Warcraft Logs. Python, PySide6, SQLite."></a>
   <a href="#featured"><img src="./assets/cards/wow-coach.svg" width="49%" alt="WoW Coach: on hold. Pull review that lines up recordings with the combat log. Node.js."></a>
   <a href="#featured"><img src="./assets/cards/mplusiq.svg" width="49%" alt="M+IQ: on hold. Mythic+ analysis engine. Python, SQLAlchemy, Azure SQL."></a>
 </p>
 
-<p align="center"><sub>🟢 <a href="https://github.com/roryherriman/Ascende"><b>Ascend</b></a> is public, so click its card. 🔒 The rest are private while I tidy them up.</sub></p>
+<p align="center"><sub>🟢 <a href="https://github.com/roryherriman/Ascende"><b>Ascend</b></a> and <a href="https://github.com/roryherriman/Dawnward-Chronicles"><b>Dawnward Chronicles</b></a> are public, so click their cards (Dawnward is pre-alpha: nothing to install yet). 🔒 The rest are private while I tidy them up.</sub></p>
 
 ## 🧪 More from the lab
 
@@ -46,6 +46,7 @@ Most of the code is AI-generated. I handle the ideas, requirements, testing, tro
 | 🪦 **Abandoned** | It was a great idea for approximately six hours. |
 
 **WoW addons & game tools**
+- ⏸️ **Pathwarden**: duo-leveling companion for WoW Forever. Wildly ambitious, and a great teacher in scope, compatibility and testing
 - 🟠 **Tempest Reminder**: loud alert for a raid tornado mechanic, built on the Encounter Timeline API
 - ⏸️ **Multi-Spec Gear Optimizer**: one shared gear setup across specs, from Raidbots sims
 - 🪦 **Raid Consumable Reminder**: right flask and potion for your spec, on zone-in
@@ -59,10 +60,10 @@ Most of the code is AI-generated. I handle the ideas, requirements, testing, tro
 ## 🔧 On the workbench
 
 ```diff
-+ now     Pathwarden V1: in-game testing, tuning recommendations
-+ now     Pathwarden: improving NaowhForever + waypoint integrations
++ now     Dawnward Chronicles: pre-alpha, building the v0.1 foundation
++ next    Dawnward Chronicles: journal, story choices, TRP3 sync
 + shipped Ascend: now public, go break it
-- parked  everything else (it knows what it did)
+- parked  Pathwarden + everything else (it knows what it did)
 ```
 
 ## 🧰 Toolbelt
