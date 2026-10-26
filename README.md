@@ -27,13 +27,15 @@ Most of the code is AI-generated. I handle the ideas, requirements, testing, tro
 <a name="featured"></a>
 
 <p align="center">
-  <a href="https://github.com/roryherriman/Dawnward-Chronicles"><img src="./assets/cards/dawnward.svg" width="49%" alt="Dawnward Chronicles: early development, no release yet. Roleplay storytelling addon for WoW Classic, with planned Total RP 3 sync. Lua."></a>
+  <a href="https://github.com/roryherriman/Dawnward-Chronicles"><img src="./assets/cards/dawnward.svg" width="49%" alt="Dawnward Chronicles: early development, no release yet. Roleplay storytelling addon for WoW Classic: working journal, experimental Total RP 3 sync. Lua."></a>
   <a href="https://github.com/roryherriman/Ascende"><img src="./assets/cards/ascend.svg" width="49%" alt="Ascend: completed. Raid progression analytics on Warcraft Logs. Python, PySide6, SQLite."></a>
   <a href="#featured"><img src="./assets/cards/wow-coach.svg" width="49%" alt="WoW Coach: on hold. Pull review that lines up recordings with the combat log. Node.js."></a>
   <a href="#featured"><img src="./assets/cards/mplusiq.svg" width="49%" alt="M+IQ: on hold. Mythic+ analysis engine. Python, SQLAlchemy, Azure SQL."></a>
 </p>
 
 <p align="center"><sub>🟢 <a href="https://github.com/roryherriman/Ascende"><b>Ascend</b></a> and <a href="https://github.com/roryherriman/Dawnward-Chronicles"><b>Dawnward Chronicles</b></a> are public, so click their cards (Dawnward is pre-alpha: nothing to install yet). 🔒 The rest are private while I tidy them up.</sub></p>
+
+**About Dawnward and Total RP 3:** Dawnward isn't trying to replace TRP3 (I'm not *that* chaotic). It's an independent companion addon that runs alongside it. TRP3 stays your public roleplay profile, and Dawnward keeps track of how your character actually grows through what happens in game: adventures, decisions, memories. *TRP3 tells the world who your character is. Dawnward helps you discover who you become.* <sub>(Fan-made, not affiliated with the Total RP 3 team.)</sub>
 
 ## 🧪 More from the lab
 
@@ -60,8 +62,9 @@ Most of the code is AI-generated. I handle the ideas, requirements, testing, tro
 ## 🔧 On the workbench
 
 ```diff
-+ now     Dawnward Chronicles: pre-alpha, building the v0.1 foundation
-+ next    Dawnward Chronicles: journal, story choices, TRP3 sync
++ now     Dawnward v0.3: personality, memories, experimental TRP3 sync
+! next    v0.4 "The Living Chronicle": choices + journal reactions
+! later   WoW Forever testing (until then, it doesn't count)
 + shipped Ascend: now public, go break it
 - parked  Pathwarden + everything else (it knows what it did)
 ```
